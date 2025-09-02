@@ -1,5 +1,5 @@
 {
-  "apiVersion": "dashboard.grafana.app/v1beta1",
+  "apiVersion": "dashboard.grafana.app/v0alpha1",
   "kind": "Dashboard",
   "metadata": {
     "name": "bdpzp3w3jkt8ga"
@@ -253,7 +253,7 @@
       }
     ],
     "refresh": "",
-    "schemaVersion": 41,
+    "schemaVersion": 39,
     "tags": [],
     "templating": {
       "list": [
